@@ -1,0 +1,87 @@
+
+
+
+@font-face {
+  font-family: myfont ;
+  src: url(Font/DEBROSE/Debrosee-ALPnL.ttf) format(truetype);
+  
+}
+
+
+@font-face {
+  font-family: myyfont;
+  src: url(Font/PIXELLETTERS/Pixellettersfull-BnJ5.ttf) format(truetype);
+}
+@font-face {
+  font-family: meins;
+  src: url(Font/Ariana/ArianaVioleta-dz2K.ttf);
+}
+
+@font-face {
+  font-family: elegant;
+  src: url(https://fonts.adobe.com/fonts/pauline-didone-variable?vf-instance=Italic&vf-font-size=100&vf-font=PaulineDidoneVariable-ThinIta);
+}
+
+body{
+
+    scrollbar-shadow-color: aqua;
+    background-color: bisque;
+    background-image: url(BACKGROUND/car_neon_movement_129990_1920x1080.jpg),url(BACKGROUND/wolf_silhouette_hills_130119_1920x1080.jpg);
+    background-position: center top,center top;
+    background-repeat: no-repeat;
+    background-attachment:  fixed, scroll;
+    background-size: cover;
+
+  
+
+}
+
+
+
+p1 {
+  color: aqua;
+  font-family: elegant;
+  font-size: 50px
+  
+  
+}
+li  {
+  font-size: 40px !important;
+  color: aquamarine;
+  font-family: myyfont;
+  
+  
+  
+
+
+
+}
+
+h1 {
+  color: aquamarine;
+  font-family: pauline-didone-variable;
+  font-size: 2cm;
+  text-shadow: 19px 31px 3px aqua;
+  
+}
+background1 {
+  background-image: url(BACKGROUND/CAR.jpg),url(BACKGROUND/wolf_silhouette_hills_130119_1920x1080.jpg);
+ 
+}
+
+
+
+
+
+
+h2 {
+  color: rgb(51, 219, 219);
+  
+  font-family: myyfont;
+  font-size: 1.5cm;
+}
+p2 {
+  color:aqua;
+  font-family: myyfont;
+  font-size: 1cm;
+}
